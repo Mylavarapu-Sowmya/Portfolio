@@ -115,14 +115,14 @@
         }
       ]
     },
-    {
+   {
   id: '7',
-  title: 'Amazon Clone',
+  title: 'Amazon Clone (E-Commerce Platform)',
   category: 'fullstack',
   year: '2025',
   slug: 'amazon-clone',
-  coverImage: 'https://images.unsplash.com/photo-1515169067865-5387ec356754?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080',
-  description: 'A full-featured Amazon Clone web application with product listings, user authentication, cart system, order management, and responsive UI. Built to simulate a real-world e-commerce platform experience.',
+  coverImage: 'https://images.unsplash.com/photo-1586880244406-556ebe35f282?auto=format&fit=crop&w=1080&q=80',
+  description: 'A full-featured e-commerce web application inspired by Amazon, including product listings, authentication, cart, checkout flow, order management, and responsive UI. Designed to simulate a real-world online shopping experience.',
   technologies: [
     'React.js',
     'Node.js',
@@ -130,29 +130,33 @@
     'MongoDB',
     'REST API',
     'JWT Authentication',
-    'Stripe API'
+    'Stripe API',
+    'Responsive Design'
   ],
   images: [
     {
       id: '7-1',
-      src: 'https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080',
+      src: 'https://images.unsplash.com/photo-1586880244406-556ebe35f282?auto=format&fit=crop&w=1600&q=80',
       alt: 'Amazon clone homepage',
       aspectRatio: 'landscape'
     },
     {
       id: '7-2',
-      src: 'https://images.unsplash.com/photo-1523275335684-37898b6baf30?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080',
+      src: 'https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?auto=format&fit=crop&w=1600&q=80',
       alt: 'Amazon clone product page',
       aspectRatio: 'landscape'
     },
     {
       id: '7-3',
-      src: 'https://images.unsplash.com/photo-1605902711622-cfb43c44367f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080',
+      src: 'https://images.unsplash.com/photo-1607082349566-187342175e2f?auto=format&fit=crop&w=1600&q=80',
       alt: 'Amazon clone cart and checkout',
       aspectRatio: 'landscape'
     }
-  ]
+  ],
+  liveUrl: '#',
+  githubUrl: 'https://github.com/YOUR_USERNAME/amazon-clone'
 }
+
 
   ];
 
