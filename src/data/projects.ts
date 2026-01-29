@@ -114,7 +114,46 @@
           aspectRatio: 'landscape'
         }
       ]
+    },
+    {
+  id: '7',
+  title: 'Amazon Clone',
+  category: 'fullstack',
+  year: '2025',
+  slug: 'amazon-clone',
+  coverImage: 'https://images.unsplash.com/photo-1515169067865-5387ec356754?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080',
+  description: 'A full-featured Amazon Clone web application with product listings, user authentication, cart system, order management, and responsive UI. Built to simulate a real-world e-commerce platform experience.',
+  technologies: [
+    'React.js',
+    'Node.js',
+    'Express.js',
+    'MongoDB',
+    'REST API',
+    'JWT Authentication',
+    'Stripe API'
+  ],
+  images: [
+    {
+      id: '7-1',
+      src: 'https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080',
+      alt: 'Amazon clone homepage',
+      aspectRatio: 'landscape'
+    },
+    {
+      id: '7-2',
+      src: 'https://images.unsplash.com/photo-1523275335684-37898b6baf30?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080',
+      alt: 'Amazon clone product page',
+      aspectRatio: 'landscape'
+    },
+    {
+      id: '7-3',
+      src: 'https://images.unsplash.com/photo-1605902711622-cfb43c44367f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080',
+      alt: 'Amazon clone cart and checkout',
+      aspectRatio: 'landscape'
     }
+  ]
+}
+
   ];
 
   // Helper function to get project by slug
